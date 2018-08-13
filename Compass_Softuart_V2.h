@@ -21,5 +21,4 @@ class Compass_Uart_V2
     int16_t read();
 };
 
-
 #endif
